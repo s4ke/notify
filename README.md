@@ -43,6 +43,6 @@ original script
 toast.exe
 ---------
 
-- ![nels-o on GitHub](https://github.com/nels-o/toaster)
+- [nels-o on GitHub](https://github.com/nels-o/toaster)
 
 
