@@ -1,6 +1,8 @@
 Notify Windows
 ==============
 
+![xkcd Compiling](https://imgs.xkcd.com/comics/compiling.png)
+
 Here is a tiny little tool that will speed up the multi-tasking life of terminal users: be notified when a command finishes.
 
 How many times have you started a command in the terminal to realise that it will take a while? How many times did you then move to emails or twitter "in the mean time"? How many times have you forgotten about it and read our twitter feed for 30 minutes aka 25 minutes longer than the actual command?
