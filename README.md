@@ -23,7 +23,7 @@ You will be notified with a toast that looks similar to this (on Windows)
 Installation (Windows)
 ======================
 
-You need to have Cygwin installed and on your path. Additionally, put notify.sh, notify.bat and notify-send.exe on the path as well.
+You need to have Cygwin installed and on your path. Additionally, put notify.sh, notify.bat and toast.exe on the path as well.
 
 Installation (Linux, Mac)
 =========================
@@ -33,6 +33,16 @@ Only notify.sh is needed on the path. But take a look at the blog post about [Em
 Credits
 =======
 
+original script
+---------------
+
 - David Gageot
 - Sanne Grinovero
 - Emmanuel Bernard
+
+toast.exe
+---------
+
+- ![nels-o on GitHub](https://github.com/nels-o/toaster)
+
+

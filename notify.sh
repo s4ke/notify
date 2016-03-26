@@ -27,7 +27,7 @@ say() {
     fi
     if [[ `uname -s` == "CYGWIN"* ]]; then
         # On Windows with Cygwin, notify via notify-send
-        which notify-send && notify-send -t 1000 "'$CMD_DISPLAY' has finished" "$RESULT"
+        which toast && toast -w -t "'$CMD_DISPLAY' has finished" -m "$RESULT"
     fi
 }
 
