@@ -30,8 +30,8 @@ Installation (Linux, Mac)
 
 Only notify.sh is needed on the path. But take a look at the blog post about [Emmanuel Bernard's version](https://emmanuelbernard.com/blog/2015/03/26/being-notified-when-commands-end "Emmanuel Bernard: Get notified when terminal commands end") for more information on this.
 
-Credit
-======
+Credits
+=======
 
 - David Gageot
 - Sanne Grinovero
