@@ -15,7 +15,6 @@
 # Copyright (c) 2011 Sanne Grinovero
 # Copyright (c) 2010-2015 Emmanuel Bernard
 # Copyright (c) 2016 Martin Braun
-
 say() {
     if [ `uname -s` == "Darwin" ]; then 
         # On Mac OS, notify via Growl
@@ -26,7 +25,7 @@ say() {
         which notify-send && notify-send "'$CMD_DISPLAY' has finished" "$RESULT"
     fi
     if [[ `uname -s` == "CYGWIN"* ]]; then
-        # On Windows with Cygwin, notify via notify-send
+        # On Windows with Cygwin and the toast.exe
         which toast && toast -w -t "'$CMD_DISPLAY' has finished" -m "$RESULT"
     fi
 }
