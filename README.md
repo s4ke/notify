@@ -20,6 +20,16 @@ You will be notified with a toast that looks similar to this (on Windows)
 
 ![Popup on Windows](images/toast.png)
 
+Installation (Windows)
+======================
+
+You need to have Cygwin installed and on your path. Additionally, put notify.sh, notify.bat and notify-send.exe on the path as well.
+
+Installation (Linux, Mac)
+=========================
+
+Only notify.sh is needed on the path. But take a look at the blog post about [Emmanuel Bernard's version](https://emmanuelbernard.com/blog/2015/03/26/being-notified-when-commands-end "Emmanuel Bernard: Get notified when terminal commands end") for more information on this.
+
 Credit
 ======
 
