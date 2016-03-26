@@ -7,7 +7,7 @@ How many times have you started a command in the terminal to realise that it wil
 
 Note: This text is from the blog post about [Emmanuel Bernard's version](https://emmanuelbernard.com/blog/2015/03/26/being-notified-when-commands-end "Emmanuel Bernard: Get notified when terminal commands end") of this script. This version adds additional Windows support.
 
-Emmanuel's version can also be found on [GitHub](https://github.com/emmanuelbernard/command-line-nuts/blob/master/scripts/notify)
+Emmanuel's version can also be found on [GitHub](https://github.com/emmanuelbernard/command-line-nuts/blob/master/scripts/notify). I should probably fork his repository and start working on Windows versions of his scripts.
 
 ![xkcd Compiling](https://imgs.xkcd.com/comics/compiling.png)
 
