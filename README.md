@@ -45,4 +45,10 @@ toast.exe
 
 - [nels-o on GitHub](https://github.com/nels-o/toaster)
 
+License statement from the repository:
+
+For now I'm releasing this under the Creative Commons Attribution license http://creativecommons.org/licenses/by/3.0/us/
+By for now, I mean, basically forever, pending a release to the public domain. Until such time as that, please include
+a link to (this page)[https://github.com/nels-o/toaster] with any use you make of the provided source.
+
 
