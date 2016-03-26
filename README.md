@@ -12,7 +12,11 @@ Note: This is an adaption of [Emmanuel Bernard's version](https://emmanuelbernar
 Usage
 =====
 
+The usage is as follows:
+
 ![Console call](images/notify_call.png)
+
+You will be notified with a toast that looks similar to this (on Windows)
 
 ![Popup on Windows](images/toast.png)
 
